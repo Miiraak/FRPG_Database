@@ -19,3 +19,5 @@ La base de données se composera de :
 - Lieux (Villes, Monuments, Rivières, Montagnes ...)
 - Animaux (Des animaux quoi... si t'en a jamais vu RIP)
 - Personne (Pareil mais la sors de chez toi stp...)
+
+_(La suite viendra après ZZzzzZzz)_
